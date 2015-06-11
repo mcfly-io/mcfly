@@ -1,17 +1,4 @@
 {
-  "name": "mcfly",
-  "version": "1.0.0",
-  "description": "The mcfly generator",
-  "main": "index.js",
-  "scripts": {
-    "test": ""
-  },
-  "author": "thaiat@ipelia.fr",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mcfly-io/mcfly.git"
-  },
-  "license": "ISC",
   "devDependencies": {
     "chalk": "1.0.0",
     "conventional-changelog": "0.0.17",
@@ -26,7 +13,7 @@
     "gulp-help": "1.6.0",
     "gulp-if": "1.2.5",
     "gulp-load-plugins": "1.0.0-rc.1",
-    "gulp-mux": "0.2.12",
+    "gulp-mux": "",
     "gulp-tap": "0.1.3",
     "gulp-util": "3.0.5",
     "inquirer": "0.8.5",
@@ -39,4 +26,4 @@
     "strip-json-comments": "1.0.2",
     "yargs": "3.10.0"
   }
-}
+} 
