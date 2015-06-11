@@ -1,6 +1,6 @@
 {
   "name": "mcfly",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The mcfly generator",
   "main": "index.js",
   "scripts": {
