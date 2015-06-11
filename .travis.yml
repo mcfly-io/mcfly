@@ -21,4 +21,4 @@ deploy:
   on:
     tags: true
     all_branches: true
-    repo: mcfly-io/macfly
+    repo: mcfly-io/mcfly
