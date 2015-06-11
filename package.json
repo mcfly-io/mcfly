@@ -1,0 +1,11 @@
+{
+  "name": "mcfly",
+  "version": "1.0.0",
+  "description": "The mcfly generator",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "thaiat@ipelia.fr",
+  "license": "ISC"
+}
