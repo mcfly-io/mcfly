@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/mcfly-io/mcflyio.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chalk": "1.0.0",
     "conventional-changelog": "0.0.17",
